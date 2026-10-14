@@ -1,5 +1,4 @@
 
-Image Classification Using CNN with PyTorch
 Alfido Tech AI/ML Internship — Task 2
 Overview
 This beginner-friendly project trains a Convolutional Neural Network (CNN) to classify the ten CIFAR-10 image
@@ -88,5 +87,3 @@ References
 • PyTorch tutorials: https://pytorch.org/tutorials/
 • Torchvision datasets: https://pytorch.org/vision/stable/datasets.html
 • scikit-learn metrics: https://scikit-learn.org/stable/modules/model_evaluation.html
-Page 3
-Deep Learning Image Classification — README
